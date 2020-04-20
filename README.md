@@ -9,13 +9,13 @@ For this project, I was interestested in using Seattle and Boston AirBnB data to
 
 ## File Descriptions <a name="files"></a>
 
-I have shared a jupyter notebook answering each of these questions step by step with detailed EDA and analysis.  Markdown cells were used to assist in walking through the thought process for individual steps.  
+I have shared a jupyter notebook answering each of these questions step by step with detailed EDA and CRISP-DM analysis.  Markdown cells were used to assist in walking through the thought process for individual steps.  
 
 ## Results<a name="results"></a>
 
 The main findings of the code can be found at the post available here.(https://medium.com/@satyam.shubham19/predicting-listing-prices-on-airbnb-using-ml-1f614bf711e3)
 
-## Licensing, Authors, Acknowledgements<a name="licensing"></a>
+## Licensing, Acknowledgements<a name="licensing"></a>
 
 Must give credit to Inside AirBnB for the data.  You can find the Licensing for the data and other descriptive information at the link available here. (http://insideairbnb.com/get-the-data.html).
 
