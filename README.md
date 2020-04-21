@@ -24,6 +24,9 @@ This project is executed in a Jupyter Notebook with the help of below packages
 7. BayesianOptimization
 
 ## Conclusion <a name="files"></a>
+1. Model results suggest that factors hypothesized have influence the price: no of bedrooms, bathrooms, bedrooms, and accommodates.
+2. Sentiment analysis using nltk works best in most of the cases but fails to get context and hence bi-grams or n-grams failes to get tagged with right sentiment
+3. Host related attributes plays a major role in determing the customer experience. Followed by geographical location and locality.
 
 ## Results<a name="results"></a>
 
