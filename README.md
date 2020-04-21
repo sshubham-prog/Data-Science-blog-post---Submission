@@ -9,7 +9,19 @@ For this project, I was interestested in using Seattle and Boston AirBnB data to
 
 ## File Descriptions <a name="files"></a>
 
-I have shared a jupyter notebook answering each of these questions step by step with detailed EDA and CRISP-DM analysis.  Markdown cells were used to assist in walking through the thought process for individual steps.  
+I have shared a jupyter notebook answering each of these questions step by step with detailed EDA and CRISP-DM analysis.  Markdown cells were used to assist in walking through the thought process for individual steps. 
+
+## Python package used <a name="files"></a>
+
+This project is executed in a Jupyter Notebook with the help of below packages
+
+Numpy
+Pandas
+Matplotlib
+Seaborn
+Calendar
+
+## Conclusion <a name="files"></a>
 
 ## Results<a name="results"></a>
 
