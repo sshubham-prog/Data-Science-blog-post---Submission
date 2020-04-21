@@ -15,11 +15,13 @@ I have shared a jupyter notebook answering each of these questions step by step 
 
 This project is executed in a Jupyter Notebook with the help of below packages
 
-Numpy
-Pandas
-Matplotlib
-Seaborn
-Calendar
+1. Numpy
+2. Pandas
+3. Matplotlib
+4. Seaborn
+5. XGBoost
+6. nltk
+7. BayesianOptimization
 
 ## Conclusion <a name="files"></a>
 
